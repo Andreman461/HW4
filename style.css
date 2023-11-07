@@ -2,12 +2,24 @@
 	display: block;
 	text-align: center;
 	background-color: red;
-	margin: 50px;
+	margin: 20px;
 	border: 1px solid black;
+}
+nav {
+	margin: 20px;
+	background-color: white;
+}
+li {
+	display: inline;
 }
 main {
 	display: block;
 	text-align: left;
+}
+section {
+	text-align: left;
+	width: 660px;
+	border: 20px solid green;
 }
 #cube {
 	display: block;
